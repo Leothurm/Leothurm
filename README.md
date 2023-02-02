@@ -33,7 +33,6 @@
 ---
 
 ## Snake time! 🐍
-<br>
 
 ![Snake animation](https://github.com/Leothurm/Leothurm/blob/output/github-contribution-grid-snake.svg)
 
