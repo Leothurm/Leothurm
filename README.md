@@ -6,7 +6,7 @@
 - ### Passionated by technologies || games || animes || futvolei 🔥
 
 ---
-## Social
+## Social 📌
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardothurm/)
@@ -14,13 +14,13 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.thurm@gmail.com)
 
 ---
-## GitHub Stats
+## GitHub Stats 📈
 <br>
 
 ![Leothurm GitHub stats](https://github-readme-stats.vercel.app/api?username=Leothurm&show_icons=true&theme=radical)
 
 ---
-## Main Skills  
+## Main Skills ⚒️ 
 <br>
 
 <div style="display: inline-block">
@@ -31,6 +31,9 @@
 </div>
 
 ---
+
+## Snake time! 🐍
+<br>
 
 ![Snake animation](https://github.com/Leothurm/Leothurm/blob/output/github-contribution-grid-snake.svg)
 
