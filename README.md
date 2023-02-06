@@ -1,6 +1,6 @@
 ## ✋🖥️🚀Hello World!🚀🖥️✋
 - ### Hi, my name is Leonardo 👋
-- ### I am currently studying Information systems  analyst 📚
+- ### I am currently studying Information systems  analysis 📚
 - ### Complementary courses: Modern Developer Training from DevSuperior || Full Stack Web Developer from ProgramadorBr🚀
 - ### Fun fact: I graduated in civil engineering but I never found myself in that area 👀
 - ### Passionated by technologies || games || animes || futvolei 🔥
