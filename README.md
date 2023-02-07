@@ -17,7 +17,7 @@
 ## GitHub Stats 📈
 <br>
 
-<div align="center">
+<div align="center" display="flex">
   <div align='center'>
 <img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leothurm&langs_count=8&theme=vision-friendly-dark&hide_border=true">
   </div>
