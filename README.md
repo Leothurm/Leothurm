@@ -19,9 +19,9 @@
 
 <div align="center">
   <div align='center'>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leothurm&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leothurm&langs_count=8&theme=vision-friendly-dark&hide_border=true">
   </div>
-<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Leothurm&show_icons=true&theme=highcontrast">
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Leothurm&show_icons=true&theme=highcontrast">
     
  <div align="left">
      
