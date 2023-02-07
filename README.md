@@ -28,6 +28,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leothurm&theme=highcontrast)](https://git.io/streak-stats)
      
   </div>
+  
+  </div>
   <br>
 
 ---
