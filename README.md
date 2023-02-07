@@ -17,9 +17,11 @@
 ## GitHub Stats 📈
 <br>
 
-<img align="left" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leothurm&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 
-![Leothurm GitHub stats](https://github-readme-stats.vercel.app/api?username=Leothurm&show_icons=true&theme=highcontrast)
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leothurm&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+
+<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leothurm&show_icons=true&theme=highcontrast">
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leothurm&theme=highcontrast)](https://git.io/streak-stats)
 
